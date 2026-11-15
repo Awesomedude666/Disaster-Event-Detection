@@ -1,0 +1,13 @@
+numpy
+pandas
+networkx
+matplotlib
+seaborn
+tqdm
+scikit-learn
+transformers
+torch
+python-louvain
+textblob
+vaderSentiment
+geopy
